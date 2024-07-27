@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/KEXfe8rvPcPyWp4ZRWUh6J-f9JYDhNv4ikQpZj3fQBkM3vQfKq618ldZwa-aaYq9NUAnzGMOb10E46S7Ng" width="768" height="768">
+  <img src="https://lh3.googleusercontent.com/84RGXqAtN2cdC7Oru7wWnduHiCqEt0WZ5hkX8hCq6oCqrgghf9HJlYAjwEr9fZfIKNeltNhjEv-2N8M7" width="512" height="512">
 </div>
